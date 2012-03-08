@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>CLR via C#, Third Edition</dc:title>
+        <dc:creator opf:file-as="Richter, Jeffrey" opf:role="aut">Jeffrey Richter</dc:creator>
+        <dc:language>en</dc:language>
+    </metadata>
+	<manifest>
+		<item href="CLR via CSharp.html" id="html" media-type="application/xhtml+xml"/>
+		<item href="10.jpg" id="added8" media-type="image/jpeg"/>
+		<item href="11.jpg" id="added9" media-type="image/jpeg"/>
+		<item href="12.jpg" id="added10" media-type="image/jpeg"/>
+		<item href="13.jpg" id="added11" media-type="image/jpeg"/>
+		<item href="14.jpg" id="added12" media-type="image/jpeg"/>
+		<item href="15.jpg" id="added13" media-type="image/jpeg"/>
+		<item href="16.jpg" id="added14" media-type="image/jpeg"/>
+		<item href="17.jpg" id="added15" media-type="image/jpeg"/>
+		<item href="18.jpg" id="added16" media-type="image/jpeg"/>
+		<item href="19.jpg" id="added17" media-type="image/jpeg"/>
+		<item href="2.jpg" id="added" media-type="image/jpeg"/>
+		<item href="20.jpg" id="added18" media-type="image/jpeg"/>
+		<item href="21.jpg" id="added19" media-type="image/jpeg"/>
+		<item href="22.jpg" id="added20" media-type="image/jpeg"/>
+		<item href="23.jpg" id="added21" media-type="image/jpeg"/>
+		<item href="24.jpg" id="added22" media-type="image/jpeg"/>
+		<item href="25.jpg" id="added23" media-type="image/jpeg"/>
+		<item href="26.jpg" id="added24" media-type="image/jpeg"/>
+		<item href="27.jpg" id="added25" media-type="image/jpeg"/>
+		<item href="28.jpg" id="added26" media-type="image/jpeg"/>
+		<item href="29.jpg" id="added27" media-type="image/jpeg"/>
+		<item href="3.jpg" id="added1" media-type="image/jpeg"/>
+		<item href="30.jpg" id="added28" media-type="image/jpeg"/>
+		<item href="31.jpg" id="added29" media-type="image/jpeg"/>
+		<item href="32.jpg" id="added30" media-type="image/jpeg"/>
+		<item href="33.jpg" id="added31" media-type="image/jpeg"/>
+		<item href="34.jpg" id="added32" media-type="image/jpeg"/>
+		<item href="35.jpg" id="added33" media-type="image/jpeg"/>
+		<item href="36.jpg" id="added34" media-type="image/jpeg"/>
+		<item href="37.jpg" id="added35" media-type="image/jpeg"/>
+		<item href="38.jpg" id="added36" media-type="image/jpeg"/>
+		<item href="39.jpg" id="added37" media-type="image/jpeg"/>
+		<item href="4.jpg" id="added2" media-type="image/jpeg"/>
+		<item href="40.jpg" id="added38" media-type="image/jpeg"/>
+		<item href="41.jpg" id="added39" media-type="image/jpeg"/>
+		<item href="42.jpg" id="added40" media-type="image/jpeg"/>
+		<item href="43.jpg" id="added41" media-type="image/jpeg"/>
+		<item href="44.jpg" id="added42" media-type="image/jpeg"/>
+		<item href="45.jpg" id="added43" media-type="image/jpeg"/>
+		<item href="46.jpg" id="added44" media-type="image/jpeg"/>
+		<item href="47.jpg" id="added45" media-type="image/jpeg"/>
+		<item href="48.jpg" id="added46" media-type="image/jpeg"/>
+		<item href="49.jpg" id="added47" media-type="image/jpeg"/>
+		<item href="5.jpg" id="added3" media-type="image/jpeg"/>
+		<item href="50.jpg" id="added48" media-type="image/jpeg"/>
+		<item href="51.jpg" id="added49" media-type="image/jpeg"/>
+		<item href="52.jpg" id="added50" media-type="image/jpeg"/>
+		<item href="53.jpg" id="added51" media-type="image/jpeg"/>
+		<item href="54.jpg" id="added52" media-type="image/jpeg"/>
+		<item href="55.jpg" id="added53" media-type="image/jpeg"/>
+		<item href="56.jpg" id="added54" media-type="image/jpeg"/>
+		<item href="57.jpg" id="added55" media-type="image/jpeg"/>
+		<item href="58.jpg" id="added56" media-type="image/jpeg"/>
+		<item href="59.jpg" id="added57" media-type="image/jpeg"/>
+		<item href="6.jpg" id="added4" media-type="image/jpeg"/>
+		<item href="60.jpg" id="added58" media-type="image/jpeg"/>
+		<item href="61.jpg" id="added59" media-type="image/jpeg"/>
+		<item href="62.png" id="added60" media-type="image/png"/>
+		<item href="63.jpg" id="added61" media-type="image/jpeg"/>
+		<item href="64.jpg" id="added62" media-type="image/jpeg"/>
+		<item href="65.jpg" id="added63" media-type="image/jpeg"/>
+		<item href="66.jpg" id="added64" media-type="image/jpeg"/>
+		<item href="67.jpg" id="added65" media-type="image/jpeg"/>
+		<item href="68.jpg" id="added66" media-type="image/jpeg"/>
+		<item href="69.jpg" id="added68" media-type="image/jpeg"/>
+		<item href="7.jpg" id="added5" media-type="image/jpeg"/>
+		<item href="70.jpg" id="added67" media-type="image/jpeg"/>
+		<item href="71.jpg" id="added69" media-type="image/jpeg"/>
+		<item href="72.jpg" id="added70" media-type="image/jpeg"/>
+		<item href="73.jpg" id="added71" media-type="image/jpeg"/>
+		<item href="74.jpg" id="added72" media-type="image/jpeg"/>
+		<item href="75.jpg" id="added73" media-type="image/jpeg"/>
+		<item href="76.jpg" id="added74" media-type="image/jpeg"/>
+		<item href="77.jpg" id="added75" media-type="image/jpeg"/>
+		<item href="78.jpg" id="added76" media-type="image/jpeg"/>
+		<item href="79.jpg" id="added77" media-type="image/jpeg"/>
+		<item href="8.jpg" id="added6" media-type="image/jpeg"/>
+		<item href="80.jpg" id="added78" media-type="image/jpeg"/>
+		<item href="81.jpg" id="added79" media-type="image/jpeg"/>
+		<item href="82.jpg" id="added80" media-type="image/jpeg"/>
+		<item href="83.jpg" id="added81" media-type="image/jpeg"/>
+		<item href="84.jpg" id="added82" media-type="image/jpeg"/>
+		<item href="85.jpg" id="added83" media-type="image/jpeg"/>
+		<item href="86.jpg" id="added84" media-type="image/jpeg"/>
+		<item href="87.jpg" id="added85" media-type="image/jpeg"/>
+		<item href="88.jpg" id="added86" media-type="image/jpeg"/>
+		<item href="89.jpg" id="added87" media-type="image/jpeg"/>
+		<item href="9.jpg" id="added7" media-type="image/jpeg"/>
+		<item href="90.jpg" id="added88" media-type="image/jpeg"/>
+		<item href="91.jpg" id="added89" media-type="image/jpeg"/>
+		<item href="92.jpg" id="added90" media-type="image/jpeg"/>
+		<item href="93.jpg" id="added91" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="html"/>
+	</spine>
+    <guide>
+        <reference type="cover" href="cover.jpg" title="Cover"/>
+		<reference type="toc" href="CLR via CSharp.html#TOC" title="Table of Contents"/>
+		<reference type="text" href="CLR via CSharp.html#start" title="Start"/>
+    </guide>
+</package>
