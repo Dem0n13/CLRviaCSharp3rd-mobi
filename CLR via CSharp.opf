@@ -104,7 +104,7 @@
 		<itemref idref="html"/>
 	</spine>
     <guide>
-        <reference type="cover" href="cover.jpg" title="Cover"/>
+        <reference type="cover" href="cover.png" title="Cover"/>
 		<reference type="toc" href="CLR via CSharp.html#TOC" title="Table of Contents"/>
 		<reference type="text" href="CLR via CSharp.html#start" title="Start"/>
     </guide>
